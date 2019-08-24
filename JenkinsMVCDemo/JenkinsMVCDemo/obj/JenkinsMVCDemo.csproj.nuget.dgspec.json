@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Practice\\Jenkins\\JenkinsMVCDemo\\JenkinsMVCDemo\\JenkinsMVCDemo.csproj": {}
+    "D:\\git\\FirstJenkinsDemo\\JenkinsMVCDemo\\JenkinsMVCDemo\\JenkinsMVCDemo.csproj": {}
   },
   "projects": {
-    "D:\\Practice\\Jenkins\\JenkinsMVCDemo\\JenkinsMVCDemo\\JenkinsMVCDemo.csproj": {
+    "D:\\git\\FirstJenkinsDemo\\JenkinsMVCDemo\\JenkinsMVCDemo\\JenkinsMVCDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Practice\\Jenkins\\JenkinsMVCDemo\\JenkinsMVCDemo\\JenkinsMVCDemo.csproj",
+        "projectUniqueName": "D:\\git\\FirstJenkinsDemo\\JenkinsMVCDemo\\JenkinsMVCDemo\\JenkinsMVCDemo.csproj",
         "projectName": "JenkinsMVCDemo",
-        "projectPath": "D:\\Practice\\Jenkins\\JenkinsMVCDemo\\JenkinsMVCDemo\\JenkinsMVCDemo.csproj",
+        "projectPath": "D:\\git\\FirstJenkinsDemo\\JenkinsMVCDemo\\JenkinsMVCDemo\\JenkinsMVCDemo.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Practice\\Jenkins\\JenkinsMVCDemo\\JenkinsMVCDemo\\obj\\",
+        "outputPath": "D:\\git\\FirstJenkinsDemo\\JenkinsMVCDemo\\JenkinsMVCDemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

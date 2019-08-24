@@ -12,6 +12,7 @@ namespace JenkinsMVCDemo.Controllers
     {
         public IActionResult Index()
         {
+            ViewBag.Name = "First";
             return View();
         }
 
