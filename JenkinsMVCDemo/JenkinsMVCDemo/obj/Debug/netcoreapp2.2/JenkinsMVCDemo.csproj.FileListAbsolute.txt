@@ -56,3 +56,4 @@ D:\git\FirstJenkinsDemo\JenkinsMVCDemo\JenkinsMVCDemo\obj\Debug\netcoreapp2.2\Je
 D:\git\FirstJenkinsDemo\JenkinsMVCDemo\JenkinsMVCDemo\obj\Debug\netcoreapp2.2\JenkinsMVCDemo.dll
 D:\git\FirstJenkinsDemo\JenkinsMVCDemo\JenkinsMVCDemo\obj\Debug\netcoreapp2.2\JenkinsMVCDemo.pdb
 D:\git\FirstJenkinsDemo\JenkinsMVCDemo\JenkinsMVCDemo\obj\Debug\netcoreapp2.2\JenkinsMVCDemo.csproj.CopyComplete
+D:\git\FirstJenkinsDemo\JenkinsMVCDemo\JenkinsMVCDemo\obj\Debug\netcoreapp2.2\JenkinsMVCDemo.csprojAssemblyReference.cache

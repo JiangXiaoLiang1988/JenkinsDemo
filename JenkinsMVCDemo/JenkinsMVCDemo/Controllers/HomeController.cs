@@ -12,7 +12,8 @@ namespace JenkinsMVCDemo.Controllers
     {
         public IActionResult Index()
         {
-            ViewBag.Name = "First";
+            ViewBag.Name = "Tom";
+            ViewBag.Age = 25;
             return View();
         }
 
